@@ -1,4 +1,4 @@
-# Simple Python programs to simulate the following games:
+# Python programs to simulate the following games:
 * Hangman
 * Tic-Tac-Toe
 * Snake Xzenzia Nokia
