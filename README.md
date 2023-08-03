@@ -1,6 +1,6 @@
 # Python programs to simulate the following games:
 * Hangman
 * Tic-Tac-Toe
-* Snake Xzenzia Nokia
+* Snake Xenzia Nokia
 * Sudoku (Interactive)
 * Sudoku Solver
