@@ -1,2 +1,6 @@
-# hangman-game
-Simple python3 code to simulate a hangman game.
+# Simple Python programs to simulate the following games:
+* Hangman
+* Tic-Tac-Toe
+* Snake Xzenzia Nokia
+* Sudoku (Interactive)
+* Sudoku Solver
